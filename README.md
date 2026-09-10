@@ -1,70 +1,64 @@
-# Hi, I'm Tahseen Ahmed 👋
+<div align="center">
 
-I'm a **BS Computer Science student** with a background in full-stack web development and a growing interest in cybersecurity.
+# 👋 Hi, I'm Tahseen Ahmed
 
-I enjoy building practical applications, understanding how systems work, and learning how those systems can be secured.
+### 💻 Full-Stack Developer | 🎓 Computer Science Student | 🔐 Cybersecurity Enthusiast
 
-## About Me
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Computer+Science+Student;Cybersecurity+Enthusiast;Linux+Learner;Building+Real-World+Applications;Always+Learning+Something+New" />
+</p>
 
-* 🎓 Currently pursuing a **BS in Computer Science**
-* 💻 Experience with **full-stack web development**
-* 🔐 Currently focusing on **cybersecurity and network security**
-* 🐧 Learning and working with **Linux**
-* 🌐 Interested in **web and application security**
-* 🛠️ I like learning by building projects and doing practical labs
+<p>
+  <a href="https://github.com/TahseeAhmed">
+    <img src="https://img.shields.io/github/followers/TahseeAhmed?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TahseeAhmed">
+    <img src="https://img.shields.io/github/stars/TahseeAhmed?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
-## Technical Skills
-
-**Languages**
-C++ · Java · Python · JavaScript
-
-**Web Development**
-React · Node.js · Express.js · MongoDB
-
-**Databases**
-MySQL · SQL · MongoDB
-
-**Cybersecurity & Networking**
-Networking · Linux · Nmap · Wireshark · MITRE ATT&CK
-
-**Tools**
-Git · GitHub · VS Code · VirtualBox
-
-## Featured Projects
-
-### 🏫 Punjab Academy
-
-A full-stack **MERN-based academy management system** designed to manage students, attendance, fees, examinations, notices, and other academic activities.
-
-### 🛒 ShopNova
-
-A **MERN-stack e-commerce application** developed to practise real-world full-stack development, including frontend, backend, database integration, and deployment.
-
-### 🤖 AI Disease Prediction
-
-A machine-learning project built with **Python and Flask** that uses a trained model to predict possible diseases based on user-provided symptoms.
-
-## What I'm Learning Now
-
-I'm currently shifting more of my focus towards cybersecurity and building a stronger foundation in:
-
-* Computer Networking
-* Linux
-* Network Security
-* Nmap
-* Wireshark
-* Web Security
-* Security Fundamentals
-* MITRE ATT&CK
-
-## My Goal
-
-I'm working towards becoming a **well-rounded computer science professional** with strong development skills and practical knowledge of cybersecurity.
-
-I believe the best way to learn is to **build, experiment, break things in a safe lab environment, and understand how they work**.
+</div>
 
 ---
 
-📌 I'm continuously adding new projects, labs, and experiments to my GitHub.
+## 👨‍💻 About Me
 
-**Thanks for visiting my profile!**
+🎓 I'm currently pursuing a **BS in Computer Science**.
+
+💻 I work as a **Full-Stack Developer**, building practical web applications and working across both frontend and backend development.
+
+🌐 I enjoy creating responsive, functional, and user-friendly web applications.
+
+🔐 I'm also developing my skills in **Cybersecurity, Network Security, and Web Application Security**.
+
+🐧 I'm learning and working with **Linux and Bash**.
+
+🤖 I'm exploring **Machine Learning** and its practical applications.
+
+🛠️ I believe in **learning by building**, solving practical problems, and continuously improving my skills.
+
+---
+
+## 🚀 What I Do
+
+```text
+💻 Full-Stack Development
+    ├── Frontend Development
+    ├── Backend Development
+    ├── REST APIs
+    └── Database Integration
+
+🔐 Cybersecurity
+    ├── Web Application Security
+    ├── Network Security
+    └── Security Fundamentals
+
+🐧 Linux
+    ├── Linux Administration
+    ├── Bash / Shell Scripting
+    └── Command-Line Tools
+
+🤖 Machine Learning
+    ├── Python
+    ├── Data Analysis
+    └── Machine Learning Fundamentals
