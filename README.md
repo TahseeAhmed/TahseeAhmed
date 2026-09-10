@@ -4,7 +4,7 @@
 
 ### `Build • Learn • Secure • Grow`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Exploring+Cybersecurity+%26+Linux;Learning+Machine+Learning;Turning+Ideas+Into+Working+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Exploring+Cybersecurity+%26+Linux;Learning+Machine+Learning;Turning+Ideas+Into+Working+Software">
 
 <br>
 
@@ -67,9 +67,7 @@ I'm a **BS Computer Science student** with a passion for building web applicatio
 </p>
 
 <p align="center">
-
 <i>Small steps everyday lead to big results.</i>
-
 </p>
 
 </td>
@@ -184,13 +182,11 @@ I'm a **BS Computer Science student** with a passion for building web applicatio
 
 ## 🎯 Current Focus
 
-| Area | Focus |
-|---|---|
-| 💻 | Full-Stack Development |
-| 🔐 | Cybersecurity |
-| 🐧 | Linux & Networking |
-| 🤖 | Machine Learning |
-| 🧠 | Problem Solving |
+- 💻 **Full-Stack Development**
+- 🔐 **Cybersecurity**
+- 🐧 **Linux & Networking**
+- 🤖 **Machine Learning**
+- 🧠 **Problem Solving**
 
 </td>
 
@@ -223,7 +219,8 @@ I'm a **BS Computer Science student** with a passion for building web applicatio
 
 Full-stack e-commerce platform with modern frontend, backend APIs, authentication, database integration and shopping features.
 
-**Tech:**  
+**Tech**
+
 `HTML` `CSS` `JavaScript`  
 `Node.js` `MongoDB`
 
@@ -235,7 +232,8 @@ Full-stack e-commerce platform with modern frontend, backend APIs, authenticatio
 
 Practical security experiments focused on Linux, networking, web security and understanding common vulnerabilities.
 
-**Tech:**  
+**Tech**
+
 `Linux` `Bash` `Networking`
 
 </td>
@@ -246,7 +244,8 @@ Practical security experiments focused on Linux, networking, web security and un
 
 Data analysis and machine learning experiments using Python and real-world datasets.
 
-**Tech:**  
+**Tech**
+
 `Python` `Pandas` `NumPy`  
 `Matplotlib` `Scikit-Learn`
 
@@ -255,15 +254,17 @@ Data analysis and machine learning experiments using Python and real-world datas
 </tr>
 </table>
 
-> 💡 **Replace the project descriptions above with your actual projects and add repository links when you have them.**
-
 ---
 
 # 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahseeAhmed&bg_color=020617&color=38BDF8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahseeAhmed/TahseeAhmed/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahseeAhmed/TahseeAhmed/output/github-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TahseeAhmed/TahseeAhmed/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -275,38 +276,28 @@ Data analysis and machine learning experiments using Python and real-world datas
 <tr>
 
 <td align="center">
-
-### 💻
-**Master Full-Stack**
-
+<h3>💻</h3>
+<b>Master Full-Stack</b>
 </td>
 
 <td align="center">
-
-### 🔐
-**Build Cybersecurity Skills**
-
+<h3>🔐</h3>
+<b>Build Cybersecurity Skills</b>
 </td>
 
 <td align="center">
-
-### 🐧
-**Master Linux**
-
+<h3>🐧</h3>
+<b>Master Linux</b>
 </td>
 
 <td align="center">
-
-### 🤖
-**Build ML Projects**
-
+<h3>🤖</h3>
+<b>Build ML Projects</b>
 </td>
 
 <td align="center">
-
-### 🚀
-**Build Real-World Apps**
-
+<h3>🚀</h3>
+<b>Build Real-World Apps</b>
 </td>
 
 </tr>
