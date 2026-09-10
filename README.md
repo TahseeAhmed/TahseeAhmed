@@ -10,10 +10,13 @@
 
 <p>
   <a href="https://github.com/TahseeAhmed">
-    <img src="https://img.shields.io/github/followers/TahseeAhmed?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/TahseeAhmed">
-    <img src="https://img.shields.io/github/stars/TahseeAhmed?label=Stars&style=for-the-badge" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -60,6 +63,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ## ⚙️ Backend Development
@@ -67,19 +71,24 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ## 🗄️ Databases & Data
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ## 🛠️ Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -102,7 +111,7 @@ I'm currently interested in:
 
 ### 💻 Full-Stack Development
 
-Building practical web applications with modern frontend, backend, API, and database technologies.
+Building practical web applications using modern frontend, backend, API, and database technologies.
 
 ### 🔐 Cybersecurity
 
@@ -114,73 +123,29 @@ Learning Python-based data analysis and machine learning concepts.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TahseeAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahseeAhmed&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TahseeAhmed&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahseeAhmed&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 Goals
-
-- 🚀 Become an advanced Full-Stack Developer
-- 🔐 Build strong practical Cybersecurity skills
-- 🌐 Specialize in Web & Application Security
-- 🐧 Improve Linux and system administration skills
-- 🤖 Build practical Machine Learning projects
-- 🛠️ Build and contribute to real-world projects
-
----
-
-# 🤝 Connect With Me
+# 📂 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/TahseeAhmed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahseeAhmed&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/TahseeAhmed">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TahseeAhmed&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 Currently Learning
 
-### 💡 Learn. Build. Secure. Repeat.
-
-⭐ Thanks for visiting my profile!
-
-</div>
+```text
+💻 Full-Stack Development
+🔐 Cybersecurity
+🌐 Web & Application Security
+🐧 Linux & Bash
+🌐 Network Security
+🤖 Machine Learning
+🧠 Computer Systems
